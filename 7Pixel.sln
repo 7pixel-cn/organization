@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{89EF4D47-CFAD-4A64-8872-EBFCCBD5FE00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7Pixel.Presentation.Web", "Presentation\7Pixel.Presentation.Web\7Pixel.Presentation.Web.csproj", "{51034A45-4780-416F-9B88-DC8C967EB1AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Development|Any CPU = Development|Any CPU
+		Production|Any CPU = Production|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51034A45-4780-416F-9B88-DC8C967EB1AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51034A45-4780-416F-9B88-DC8C967EB1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51034A45-4780-416F-9B88-DC8C967EB1AF}.Development|Any CPU.ActiveCfg = Development|Any CPU
+		{51034A45-4780-416F-9B88-DC8C967EB1AF}.Development|Any CPU.Build.0 = Development|Any CPU
+		{51034A45-4780-416F-9B88-DC8C967EB1AF}.Production|Any CPU.ActiveCfg = Production|Any CPU
+		{51034A45-4780-416F-9B88-DC8C967EB1AF}.Production|Any CPU.Build.0 = Production|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{51034A45-4780-416F-9B88-DC8C967EB1AF} = {89EF4D47-CFAD-4A64-8872-EBFCCBD5FE00}
+	EndGlobalSection
+EndGlobal
